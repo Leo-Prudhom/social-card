@@ -1,0 +1,9 @@
+#usrJob {
+  background-color: black;
+  color: white;
+  padding-inline-end: 10px;
+  padding-inline-start: 10px;
+  width: 20%;
+  margin: 2%;
+  border: white solid 1px;
+}
